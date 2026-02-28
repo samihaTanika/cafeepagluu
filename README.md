@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=40&duration=3000&pause=1000&color=6B3F1A&center=true&vCenter=true&width=700&height=80&lines=%E2%98%95+The+Cozy+Bean+Cafe;Where+Every+Sip+Brings+Joy" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&duration=2500&pause=800&color=6B3F1A&center=true&vCenter=true&width=650&height=120&lines=The+Cozy+Bean+Cafe;Where+Every+Sip+Brings+Joy" alt="Typing SVG" />
 <br/>
 
 <!-- BADGES -->
@@ -70,15 +69,17 @@ The project was deployed to the web using **Vercel**, making it publicly accessi
 
 <div align="center">
 
-| ☕ Espresso | ☕ Cappuccino | 🍵 Latte |
-|:-:|:-:|:-:|
-| ![Espresso](https://cafeepagluu.vercel.app/one.jfif) | ![Cappuccino](https://cafeepagluu.vercel.app/two.jpg) | ![Latte](https://cafeepagluu.vercel.app/three.jpg) |
-| **$3.00** | **$4.50** | **$4.50** |
+| ☕ Cappuccino | 🍵 Latte |
+|:-:|:-:|
+| ![Cappuccino](https://raw.githubusercontent.com/samihaTanika/cafeepagluu/main/two.jpg) | ![Latte](https://raw.githubusercontent.com/samihaTanika/cafeepagluu/main/three.jpg) |
+| **$4.50** | **$4.50** |
 
-| 🧁 Blueberry Muffin | 🥐 Choco Croissant | 🥑 Avocado Toast |
-|:-:|:-:|:-:|
-| ![Muffin](https://cafeepagluu.vercel.app/seven.jfif) | ![Croissant](https://cafeepagluu.vercel.app/eight.jpg) | ![Toast](https://cafeepagluu.vercel.app/nine.jpg) |
-| **$3.00** | **$5.00** | **$4.50** |
+<br/>
+
+| 🥐 Choco Croissant | 🥑 Avocado Toast |
+|:-:|:-:|
+| ![Croissant](https://raw.githubusercontent.com/samihaTanika/cafeepagluu/main/eight.jpg) | ![Toast](https://raw.githubusercontent.com/samihaTanika/cafeepagluu/main/nine.jpg) |
+| **$5.00** | **$4.50** |
 
 </div>
 
